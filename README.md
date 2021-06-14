@@ -1,4 +1,4 @@
-#Tailwind Measure
+# Tailwind Measure
 A small TailwindCSS plugin to add character-based max-width utilities for
 limiting line-length.
 
