@@ -38,8 +38,8 @@ The responsive variant is also enabled by default for these utilities too.
 
 
 ## Configuration
-The class modifiers and values can be configured in the standard tailwind way,
-uner the `measures` key in either the `theme` or `extend` keys within your
+The class modifiers and values can be configured in the standard Tailwind way,
+under the `measures` key in either the `theme` or `extend` keys within your
 tailwind config file:
 
 The below config would add a `.measure-xl` utility to the default utilities.
